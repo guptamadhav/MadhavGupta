@@ -1,8 +1,8 @@
-<h1>Madhav Gupta</h1>
+<h1>Hey Everyone</h1>
 <code>Explorer(High School Senior | Developer)</code>
 <p>I am a self taught programmer. I have worked hard to build this extra skill along with school academics. I learned how to code through various online resources such as udemy, youtube and edx. I chose to pursue computer science because it rightly blends my interest in how technology works and my problem solving skills.</p> 
 <hr>
-<h3>How it all started?</h3>
+<h3>Coding Journey</h3>
 <li>My first language was C++. I learned how to code in it through udemy. I learned all the basic topics in it like functions, arrays, vectors, characters, strings, variables, constants, statements & operators, control flow(if/else, switch, for loop, while loop), pointers and OOP(classes). I learned C++ on CdeLite IDE. Alongside, I started doing competitve programming on Codechef just to check my skills. I have solved around <b>63 problems</b> in it. My highest Rating was <b>1458</b> and my highest Global Rank was <b>1228</b>. <code><a href="https://www.codechef.com/users/mg_75">Codechef profile</a></code></li>
 <br>
 <li>Further on I learned how to code in Python which is now my primary language. I chose Python because it opens number of fields to choose from. It was easy to learn the basic syntax of Python as I was already familiar with C++ syntax. I learned Python though the famous Angela Yu's udemy course along with Freecodecamp and CS Dojo's youtube channel. I have worked on various Python projects such as <b>Games, Python Scripting, Graphic User Interface (GUI) desktop apps, HTTP requests and API's, Python Automation, Web Scrapping, Data Science</b></li>
